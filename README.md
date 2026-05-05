@@ -6,7 +6,7 @@ Aplikacja działa w oparciu o REST API i w pełni zarządzana jest po stronie Ja
 
 ---
 
-## 📌 Funkcjonalności
+##  Funkcjonalności
 
 - Wysyłanie wiadomości e-mail
 - Skrzynka odbiorcza (Inbox)
@@ -19,7 +19,7 @@ Aplikacja działa w oparciu o REST API i w pełni zarządzana jest po stronie Ja
 
 ---
 
-## 🧩 Jak działa aplikacja
+##  Jak działa aplikacja
 
 - Aplikacja działa jako Single Page Application (SPA)
 - Dane pobierane są z API przy użyciu `fetch`
@@ -29,7 +29,7 @@ Aplikacja działa w oparciu o REST API i w pełni zarządzana jest po stronie Ja
 
 ---
 
-## 🛠️ Technologie
+##  Technologie
 
 - JavaScript (ES6)
 - HTML
@@ -39,7 +39,7 @@ Aplikacja działa w oparciu o REST API i w pełni zarządzana jest po stronie Ja
 
 ---
 
-## 📁 Główne elementy
+##  Główne elementy
 
 - `inbox.js` – logika całej aplikacji (frontend)
 - `inbox.html` – struktura interfejsu
@@ -47,7 +47,7 @@ Aplikacja działa w oparciu o REST API i w pełni zarządzana jest po stronie Ja
 
 ---
 
-## 🚀 Architektura
+##  Architektura
 
 - SPA (Single Page Application)
 - Komunikacja z backendem przez `fetch API`
